@@ -6,4 +6,4 @@ edag = float(input('Notas do EDAG: '))
 
 av3 = ( 7 - ((av1*0.25) + (av2*0.25) + (edag*0.2)) ) / 0.3
 
-print('\nPrecisará de {:.2f} pontos na av3'.format(av3))
+print('\nTu vai precisarar de {:.2f} pontos na av3'.format(av3))
